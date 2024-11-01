@@ -7,3 +7,4 @@ xhofe/alist:latest
 whyour/qinglong:latest
 whyour/qinglong:debian
 prom/prometheus
+mysql:latest
